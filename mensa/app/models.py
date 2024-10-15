@@ -1,5 +1,6 @@
 from django.db import models
 
+
 class Mensa(models.Model):
     """
     Model for a mensa (cafeteria)
